@@ -8,7 +8,15 @@ https://www.itead.cc/
 
 pasos para instalar
 
+URLS
+https://learn.adafruit.com/micropython-basics-load-files-and-run-code/file-operations
 
+
+---- importante ----
+
+https://github.com/adafruit/ampy
+
+https://github.com/lvidarte/esp8266
 
 ```
 
