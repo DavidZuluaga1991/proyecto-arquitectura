@@ -8,6 +8,11 @@ https://www.itead.cc/
 
 pasos para instalar
 
+-------- Pasos para instalar Micropython en ESP-------------
+https://themicrofcontrol.wordpress.com/2017/03/24/guia-instalar-y-usar-micropython-en-esp8266/
+-------------------
+
+
 URLS
 https://learn.adafruit.com/micropython-basics-load-files-and-run-code/file-operations
 
