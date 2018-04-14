@@ -1,6 +1,13 @@
 
+Repositorio para guardar los proyectos con micropython y el microcontrolador esp8266
+=============================
+
 
 pasos para instalar
+
+
+
+```
 
 sudo minicom -s
  1588  ping 192.168.1.10
@@ -68,3 +75,4 @@ sudo minicom -s
  1650  pip install mock
  1651  sudo pip install mock
  1652  minicom -D /dev/ttyUSB0
+ ```
