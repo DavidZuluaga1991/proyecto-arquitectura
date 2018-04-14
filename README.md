@@ -2,6 +2,9 @@
 Repositorio para guardar los proyectos con micropython y el microcontrolador esp8266
 =============================
 
+https://www.vistronica.com/buscar?controller=search&orderby=position&orderway=desc&search_query=sensor+flujo&submit_search=
+
+https://www.itead.cc/
 
 pasos para instalar
 
