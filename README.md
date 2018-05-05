@@ -23,6 +23,8 @@ https://github.com/adafruit/ampy
 
 https://github.com/lvidarte/esp8266
 
+https://arduino-info.wikispaces.com/LCD-Blue-I2C
+
 ```
 
 sudo minicom -s
