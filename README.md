@@ -12,6 +12,8 @@ pasos para instalar
 https://themicrofcontrol.wordpress.com/2017/03/24/guia-instalar-y-usar-micropython-en-esp8266/
 -------------------
 
+https://www.losant.com/blog/how-to-connect-lcd-esp8266-nodemcu
+http://blogmasterwalkershop.com.br/embarcados/nodemcu/nodemcu-utilizando-com-display-lcd-16x2/
 
 URLS
 https://learn.adafruit.com/micropython-basics-load-files-and-run-code/file-operations
@@ -26,6 +28,7 @@ https://github.com/lvidarte/esp8266
 https://arduino-info.wikispaces.com/LCD-Blue-I2C
 
 ```
+
 
 sudo minicom -s
  1588  ping 192.168.1.10
